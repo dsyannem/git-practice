@@ -1,2 +1,2 @@
-Hello, this is my practice repository!
-Heading 2
+# Hello, this is my practice repository!
+## Edited the heading.
